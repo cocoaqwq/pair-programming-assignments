@@ -1,0 +1,11 @@
+﻿  ExpressionSet.cpp
+  GetExpression.cpp
+D:\学期2023秋\软件工程作业\结对编程：小学四则运算\GetExpression.cpp(33,4): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学期2023秋\软件工程作业\结对编程：小学四则运算\GetExpression.cpp(50,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学期2023秋\软件工程作业\结对编程：小学四则运算\GetExpression.cpp(50,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学期2023秋\软件工程作业\结对编程：小学四则运算\GetExpression.cpp(73,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\学期2023秋\软件工程作业\结对编程：小学四则运算\main.cpp(10,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  TNode.cpp
+  正在生成代码...
+  结对编程：小学四则运算.vcxproj -> D:\学期2023秋\软件工程作业\结对编程：小学四则运算\x64\Debug\结对编程：小学四则运算.exe
